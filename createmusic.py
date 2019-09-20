@@ -8,7 +8,7 @@ import numpy as np
 import mido
 
 ########### PROCESS MIDI FILE #############
-mid = MidiFile('allegroconspirito.mid') # a Mozart piece
+mid = MidiFile('/content/rudimentary-ai-composer/allegroconspirito.mid') # a Mozart piece
 
 notes = []
 
